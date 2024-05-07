@@ -1,4 +1,6 @@
-#!/home/alejandroramos/myproject/venv/bin/python3
+#!/bin/sh
+'''exec' "/Users/alejandroramos/Documents/Computer System Architecture/StopTalkMac/venv/bin/python3.11" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
